@@ -1,2 +1,1 @@
-git checkout master
-Planilhas - Controle Financeiro.rar
+git rm arquivo_duplicado.ext
